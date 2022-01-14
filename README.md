@@ -10,7 +10,7 @@
 
 **Home**
 
-<img title="" src="file:///home/julio/Imagens/home.png" alt="" width="743" data-align="center">
+<img title="" src="imagens/home.png" alt="" width="743" data-align="center">
 
 **Quem somos**
 
